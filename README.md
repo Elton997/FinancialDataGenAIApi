@@ -30,20 +30,20 @@ tests/
 3. Set the `PYTHONPATH` environment variable:
 
    **For Windows (PowerShell)**:
-   $env:PYTHONPATH = "YOUR_PROJECT_PATH"
+   - $env:PYTHONPATH = "YOUR_PROJECT_PATH"
 
     **For Mac/Linux (PowerShell)**:
-   export PYTHONPATH="YOUR_PROJECT_PATH"
+   - export PYTHONPATH="YOUR_PROJECT_PATH"
 
 4. Create a virtual environment:
 
    **For Windows (PowerShell)**:
-   python -m venv venv
-   .\venv\Scripts\activate
+   - python -m venv venv
+   - .\venv\Scripts\activate
 
     **For Mac/Linux (PowerShell)**:
-    python3 -m venv venv
-    source venv/bin/activate
+    - python3 -m venv venv
+    - source venv/bin/activate
 
 
 5. Install the required dependencies:

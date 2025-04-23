@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+sqlalchemy
+pandas
+pytest
+transformers
+finance-datareader
+torch
+python-dotenv
+pytest-asyncio
+pytest-httpx
+openai
+aiosqlite
+databases
+httpx
+pytest-cov
