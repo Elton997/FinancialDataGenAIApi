@@ -88,3 +88,8 @@ The following main endpoints are available:
 - `DELETE /clear-db` - Clear the database records.
   ![image](https://github.com/user-attachments/assets/52bc2010-a180-4239-9c88-c1425b9b9616)
 
+
+## MicroServices Architechture
+
+![Microservices Arch](https://github.com/user-attachments/assets/24a54b0e-f61b-4bc9-a148-968a8e4bcb73)
+
